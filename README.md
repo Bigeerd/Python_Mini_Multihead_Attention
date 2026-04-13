@@ -1,0 +1,2 @@
+# Mini_Multihead_Attention_Python
+实现了基础的多头注意力核心逻辑
